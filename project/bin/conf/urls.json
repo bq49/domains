@@ -1,0 +1,29 @@
+[
+    {
+        "url":"http://sit.106games.com/gamelobby/home.html"
+    },
+    {
+        "url":"http://sit.106games.com/gamelobby/index.html"
+    },
+    {
+        "url":"http://sit.106games.com/api/v1"
+    },
+    {
+        "url":"http://sport.wap.com/api/v1"
+    },
+    {
+        "url":"https://www.baidu.com"
+    },
+    {
+        "url":"http://sit.106games.com/g_recharge/?module=account"
+    },
+    {
+        "url":"http://sit.106games.com/g_recharge/?module=recharge"
+    },
+    {
+        "url":"http://sit.106games.com/g_recharge/?module=redraw"
+    },
+    {
+        "url":"http://sit.106games.com/g_recharge/?module=custom"
+    }
+]
